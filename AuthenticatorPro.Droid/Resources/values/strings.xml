@@ -86,7 +86,7 @@
     <string name="duplicateAuthenticator">An authenticator with this secret key already exists</string>
     <string name="scanSuccessful">QR code scanned successfully</string>
     <string name="pinMessage">Enter the pin associated with this QR code. You would have been prompted for a pin when setting up this account.</string>
-    
+
     <!-- Icon packs -->
     <string name="defaultIcons">Default icons</string>
     <string name="iconPacks">Icon packs</string>
@@ -323,11 +323,10 @@
     <string name="prefTransparentStatusBarTitle">Transparent Status Bar</string>
     <string name="prefTransparentStatusBarSummary">Make the list visible behind the status bar when scrolling</string>
 
-    <string name="prefOther">Other</string>
-    <string name="prefSaveLogTitle">Save Log</string>
-    <string name="prefSaveLogSummary">Save error log to file for debugging purposes</string>
-
     <string name="copyCountReset">Copy count reset</string>
+
+    <!-- About -->
+    <string name="saveLog">Save Log</string>
     <string name="noLogFile">No log file available</string>
 
     <!-- Arrays -->
